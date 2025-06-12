@@ -1,39 +1,54 @@
-name: Weekly Alert Update
+name: Deploy static HTML to Pages
 
 on:
+  push:
+    branches: ["main"]
   schedule:
     - cron: '0 12 * * 0'  # Weekly on Sunday at 12:00 UTC
-  workflow_dispatch:
 
 permissions:
   contents: write
   pages: write
   id-token: write
 
+concurrency:
+  group: "pages"
+  cancel-in-progress: false
+
 jobs:
-  update:
+  deploy:
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
         uses: actions/checkout@v4
 
       - name: Setup Node.js
+        if: github.event_name == 'schedule' || github.event_name == 'workflow_dispatch'
         uses: actions/setup-node@v4
         with:
           node-version: '20'
 
       - name: Update alerts
+        if: github.event_name == 'schedule' || github.event_name == 'workflow_dispatch'
         run: node --input-type=module scripts/update-alerts.js
         env:
           RAPIDAPI_KEY: ${{ secrets.RAPIDAPI_KEY }}
 
       - name: Commit changes
+        if: github.event_name == 'schedule' || github.event_name == 'workflow_dispatch'
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
           git add data/alerts.json
           if ! git diff --staged --quiet; then
-            git commit -m "Weekly update - $(date -u '+%Y-%m-%d %H:%M')"
+            if [ "${{ github.event_name }}" = "schedule" ]; then
+              git commit -m "Scheduled update - $(date -u '+%Y-%m-%d %H:%M')"
+            else
+              git commit -m "Manual update - $(date -u '+%Y-%m-%d %H:%M')"
+            fi
             git push
           fi
 
@@ -46,4 +61,5 @@ jobs:
           path: '.'
 
       - name: Deploy to Pages
+        id: deployment
         uses: actions/deploy-pages@v4
