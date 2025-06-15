@@ -33,7 +33,7 @@ jobs:
 
       - name: Update alerts
         if: github.event_name == 'schedule' || github.event_name == 'workflow_dispatch'
-        run: node --input-type=module scripts/update-alerts.js
+        run: node scripts/update-alerts.js
         env:
           RAPIDAPI_KEY: ${{ secrets.RAPIDAPI_KEY }}
 
