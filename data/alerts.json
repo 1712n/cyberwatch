@@ -1,9 +1,23 @@
 [
   {
-    "timestamp": "2025-06-09T21:44:30Z",
-    "entities": "US Banks, Financial Regulators",
+    "timestamp": "2025-06-21T03:04:07Z",
+    "entities": "CoinMarketCap",
     "topic": "cyberattack",
     "industry": "finance",
-    "eventSummary": "US Banks have expressed deep concern about cybersecurity risks following a cyberattack on a top financial regulator. Bank groups have warned about regulators' cybersecurity weaknesses, highlighting vulnerabilities in the financial regulatory infrastructure.\nSources:\n- https://cryptopanic.com/news/22509979/US-Banks-Deeply-Concerned-About-Cybersecurity-Risk-Following-Attack-on-Top-Financial-Regulator\n- https://www.americanbanker.com/news/bank-groups-warn-of-regulators-cybersecurity-weaknesses\n- https://bsky.app/profile/alexisrjimenez.bsky.social/post/3lrblgiakma24"
+    "eventSummary": "CoinMarketCap's front-end was compromised with malicious code, leading to the identification and removal of a malicious wallet scam.\nSources:\n- https://cointelegraph.com/news/coinmarketcap-malicious-verify-wallet-popup-removed-website\n- https://cryptopanic.com/news/22721467/CoinMarketCap-front-end-got-compromised-with-malicious-code\n- https://www.reddit.com/r/Bitcoin/comments/1lgf6jn/coinmarketcap_has_been_hacked_do_not_interact/"
+  },
+  {
+    "timestamp": "2025-06-18T08:39:04Z",
+    "entities": "Iranian Banks",
+    "topic": "cyberattack",
+    "industry": "finance",
+    "eventSummary": "Widespread cyberattacks have hit Iranian banks, ATMs, and internet access, affecting financial custodians in Iran.\nSources:\n- https://www.reddit.com/r/Bitcoin/comments/1le3cxu/widespread_cyberattacks_hit_iranian_banks_atms/"
+  },
+  {
+    "timestamp": "2025-06-17T14:42:27Z",
+    "entities": "Coinbase",
+    "topic": "cyberattack",
+    "industry": "finance",
+    "eventSummary": "Coinbase Bitcoin security is reported under attack, indicating a cyberattack targeting Coinbase's financial services.\nSources:\n- https://cryptopanic.com/news/22627310/Paper-Bitcoin-EXPOSED-Coinbase-Bitcoin-Security-Under-Attack\n- https://www.reddit.com/r/CoinBase/comments/1leqdc1/coinbase_smishing_attempt/\n- https://www.reddit.com/r/CoinBase/comments/1letqaa/call_scam_from_coinbase/"
   }
 ]
