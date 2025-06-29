@@ -1,23 +1,44 @@
 [
   {
-    "timestamp": "2025-06-21T03:04:07Z",
-    "entities": "CoinMarketCap",
-    "topic": "cyberattack",
+    "entities": "financial custodians",
+    "eventSummary": "Hackers are spying on Android phones in real-time, targeting over 500 bank, crypto, and payment applications to steal sensitive data.",
     "industry": "finance",
-    "eventSummary": "CoinMarketCap's front-end was compromised with malicious code, leading to the identification and removal of a malicious wallet scam.\nSources:\n- https://cointelegraph.com/news/coinmarketcap-malicious-verify-wallet-popup-removed-website\n- https://cryptopanic.com/news/22721467/CoinMarketCap-front-end-got-compromised-with-malicious-code\n- https://www.reddit.com/r/Bitcoin/comments/1lgf6jn/coinmarketcap_has_been_hacked_do_not_interact/"
+    "timestamp": "2025-06-29T07:17:24Z",
+    "topic": "cyberattack"
   },
   {
-    "timestamp": "2025-06-18T08:39:04Z",
-    "entities": "Iranian Banks",
-    "topic": "cyberattack",
+    "entities": "Kraken",
+    "eventSummary": "A user reported being a victim of a cryptocurrency scam, with 6164 USDT (Tether) transferred to an attacker's wallet on June 26, 2025. The funds were still on the attacker's wallet and had not yet been moved to an exchange.",
     "industry": "finance",
-    "eventSummary": "Widespread cyberattacks have hit Iranian banks, ATMs, and internet access, affecting financial custodians in Iran.\nSources:\n- https://www.reddit.com/r/Bitcoin/comments/1le3cxu/widespread_cyberattacks_hit_iranian_banks_atms/"
+    "timestamp": "2025-06-26T00:00:00Z",
+    "topic": "cyberattack"
   },
   {
-    "timestamp": "2025-06-17T14:42:27Z",
-    "entities": "Coinbase",
-    "topic": "cyberattack",
+    "entities": "financial custodians",
+    "eventSummary": "Kaspersky uncovered new malware designed to steal crypto wallets via mobile photos. Additionally, a new version of 'Godfather' malware is hijacking official bank apps, creating virtualized versions in a sandbox.",
     "industry": "finance",
-    "eventSummary": "Coinbase Bitcoin security is reported under attack, indicating a cyberattack targeting Coinbase's financial services.\nSources:\n- https://cryptopanic.com/news/22627310/Paper-Bitcoin-EXPOSED-Coinbase-Bitcoin-Security-Under-Attack\n- https://www.reddit.com/r/CoinBase/comments/1leqdc1/coinbase_smishing_attempt/\n- https://www.reddit.com/r/CoinBase/comments/1letqaa/call_scam_from_coinbase/"
+    "timestamp": "2025-06-24T11:59:18Z",
+    "topic": "cyberattack"
+  },
+  {
+    "entities": "financial custodians",
+    "eventSummary": "Scammers are impersonating finance experts to steal millions, and the real experts are struggling to stop it. There are also reports of phishing attacks following a data breach, and individuals having accounts created in their name or stolen.",
+    "industry": "finance",
+    "timestamp": "2025-06-23T19:20:05Z",
+    "topic": "cyberattack"
+  },
+  {
+    "entities": "Aflac",
+    "eventSummary": "A hacking group targeted the insurance giant Aflac, potentially putting personal and medical data at risk.",
+    "industry": "finance",
+    "timestamp": "2025-06-23T07:48:41Z",
+    "topic": "cyberattack"
+  },
+  {
+    "entities": "Cointelegraph, CoinMarketCap",
+    "eventSummary": "Hackers breached Cointelegraph and CoinMarketCap with a new wallet connection scam, displaying fake pop-up messages to trick users into connecting their wallets and stealing funds. Trezor also warned users of phishing scams after hackers exploited their website contact form to impersonate support.\nSources:\n- https://cryptopanic.com/news/22759128/Hackers-breach-Cointelegraph-Coinmarketcap-with-new-wallet-connection-scam\n- https://cryptoadventure.com/coinmarketcap-briefly-exploited-with-wallet-phishing-pop-up-message\n- https://cryptopanic.com/news/22758491/Crypto-Wallet-Trezor-Warns-Users-of-Scam-Emails-Posing-as-Support",
+    "industry": "finance",
+    "timestamp": "2025-06-22T19:17:33Z",
+    "topic": "cyberattack"
   }
 ]
