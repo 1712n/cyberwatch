@@ -1,44 +1,58 @@
 [
   {
     "entities": "financial custodians",
-    "eventSummary": "Hackers are spying on Android phones in real-time, targeting over 500 bank, crypto, and payment applications to steal sensitive data.",
+    "eventSummary": "Ingram Micro experienced an outage attributed to a SafePay ransomware attack.\nSources:\n- https://twitter.com/50026664/status/1941527257182306730",
     "industry": "finance",
-    "timestamp": "2025-06-29T07:17:24Z",
-    "topic": "cyberattack"
-  },
-  {
-    "entities": "Kraken",
-    "eventSummary": "A user reported being a victim of a cryptocurrency scam, with 6164 USDT (Tether) transferred to an attacker's wallet on June 26, 2025. The funds were still on the attacker's wallet and had not yet been moved to an exchange.",
-    "industry": "finance",
-    "timestamp": "2025-06-26T00:00:00Z",
+    "timestamp": "2025-07-05T15:59:04Z",
     "topic": "cyberattack"
   },
   {
     "entities": "financial custodians",
-    "eventSummary": "Kaspersky uncovered new malware designed to steal crypto wallets via mobile photos. Additionally, a new version of 'Godfather' malware is hijacking official bank apps, creating virtualized versions in a sandbox.",
+    "eventSummary": "Hackers are attacking systems to carry out crypto mining activities.\nSources:\n- https://cryptopanic.com/news/23058977/Hackers-attack-systems-to-carry-out-crypto-mining-activities",
     "industry": "finance",
-    "timestamp": "2025-06-24T11:59:18Z",
+    "timestamp": "2025-07-05T10:39:45Z",
     "topic": "cyberattack"
   },
   {
     "entities": "financial custodians",
-    "eventSummary": "Scammers are impersonating finance experts to steal millions, and the real experts are struggling to stop it. There are also reports of phishing attacks following a data breach, and individuals having accounts created in their name or stolen.",
+    "eventSummary": "A dormant Bitcoin whale wallet holding approximately $8 billion may have been compromised. The address reportedly accessed its private key via a Bitcoin Cash transaction before transferring all its BTC holdings. Suspicion is deepened by untouched related BCH addresses. If confirmed, this could be the largest crypto theft on record, though conclusive proof is still pending.\nSources:\n- https://t.me/leviathan_news",
     "industry": "finance",
-    "timestamp": "2025-06-23T19:20:05Z",
+    "timestamp": "2025-07-05T08:30:17Z",
     "topic": "cyberattack"
   },
   {
-    "entities": "Aflac",
-    "eventSummary": "A hacking group targeted the insurance giant Aflac, potentially putting personal and medical data at risk.",
+    "entities": "financial custodians",
+    "eventSummary": "Users are reporting fraudulent emails and scam texts, with some losing all their crypto. There are also reports of imposters impersonating administrators on social media platforms to scam users, and fake crypto apps designed to steal funds. Additionally, there are concerns about hackers having access to trades.\nSources:\n- https://www.reddit.com/r/Bitcoin/comments/1ls162x/just_got_this_fraudulent_email/\n- https://www.reddit.com/r/CoinBase/comments/1lssiwa/scam_text_i_received_just_now/\n- https://t.me/Kucoin_News/30938\n- https://www.reddit.com/r/CoinBase/comments/1lq3hki/hackers_have_access_to_trades_or_coincidence/",
     "industry": "finance",
-    "timestamp": "2025-06-23T07:48:41Z",
+    "timestamp": "2025-07-03T01:28:12Z",
     "topic": "cyberattack"
   },
   {
-    "entities": "Cointelegraph, CoinMarketCap",
-    "eventSummary": "Hackers breached Cointelegraph and CoinMarketCap with a new wallet connection scam, displaying fake pop-up messages to trick users into connecting their wallets and stealing funds. Trezor also warned users of phishing scams after hackers exploited their website contact form to impersonate support.\nSources:\n- https://cryptopanic.com/news/22759128/Hackers-breach-Cointelegraph-Coinmarketcap-with-new-wallet-connection-scam\n- https://cryptoadventure.com/coinmarketcap-briefly-exploited-with-wallet-phishing-pop-up-message\n- https://cryptopanic.com/news/22758491/Crypto-Wallet-Trezor-Warns-Users-of-Scam-Emails-Posing-as-Support",
+    "entities": "financial custodians",
+    "eventSummary": "There are multiple reports of scams, including fraudulent emails, scam texts, and imposters impersonating company members on social media. Users are warned about fake crypto apps and advised to be cautious of social media promotions or rumors about stocks.\nSources:\n- https://www.reddit.com/r/Revolut/comments/1ls162x/just_got_this_fraudulent_email/\n- https://www.reddit.com/r/btc/comments/1lokjnv/received_scam_ledger_letter_beware/\n- https://twitter.com/2260491445/status/1939927050334163161\n- https://www.reddit.com/r/Gemini/comments/1losleb/scammers_working_overtime_and_clever_just_got/\n- https://t.me/nexofinance\n- https://twitter.com/18481050/status/1939783563391438989",
     "industry": "finance",
-    "timestamp": "2025-06-22T19:17:33Z",
+    "timestamp": "2025-07-02T19:04:30Z",
+    "topic": "cyberattack"
+  },
+  {
+    "entities": "financial custodians",
+    "eventSummary": "GodFather malware is hijacking banking applications on Android devices.\nSources:\n- https://www.americanbanker.com/news/godfather-malware-poses-new-threat-to-android-banking-apps",
+    "industry": "finance",
+    "timestamp": "2025-06-30T19:36:37Z",
+    "topic": "cyberattack"
+  },
+  {
+    "entities": "financial custodians",
+    "eventSummary": "Users are reporting issues with account login, account closure, and payment/withdrawal problems with debit cards. Some users suspect fraudulent activity or unauthorized account creation.\nSources:\n- https://t.me/okxofficial_id\n- https://www.reddit.com/r/CoinBase/comments/1lpyuxj/someone_created_an_account_under_my_name_phone/\n- https://www.reddit.com/r/Gemini/comments/1lqy1zy/customer_service_issues_logging_in/\n- https://t.me/kraken_exchange_official\n- https://www.reddit.com/r/Revolut/comments/1lqv91d/account_closed_please_help/\n- https://t.me/Cryptocom_BR/",
+    "industry": "finance",
+    "timestamp": "2025-06-30T11:31:08Z",
+    "topic": "cyberattack"
+  },
+  {
+    "entities": "financial custodians",
+    "eventSummary": "Users are reporting fraud despite having online transactions disabled, and some have lost all their crypto. There are also reports of scams involving fake crypto apps and impersonators.\nSources:\n- https://www.reddit.com/r/Revolut/comments/1lnoalc/fraud_in_spite_of_diabled_online_transactions/\n- https://twitter.com/1921182093868158976/status/1941247445603864902",
+    "industry": "finance",
+    "timestamp": "2025-06-29T22:08:43Z",
     "topic": "cyberattack"
   }
 ]
