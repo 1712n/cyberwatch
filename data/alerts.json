@@ -1,58 +1,58 @@
 [
   {
-    "entities": "financial custodians",
-    "eventSummary": "Ingram Micro experienced an outage attributed to a SafePay ransomware attack.\nSources:\n- https://twitter.com/50026664/status/1941527257182306730",
+    "entities": "Gemini",
+    "eventSummary": "Gemini has reported that crypto deposits are temporarily unavailable.\nSources:\n- https://status.gemini.com/incidents/y8pzppbqcl1m",
     "industry": "finance",
-    "timestamp": "2025-07-05T15:59:04Z",
+    "timestamp": "2025-07-13T05:07:31Z",
     "topic": "cyberattack"
   },
   {
-    "entities": "financial custodians",
-    "eventSummary": "Hackers are attacking systems to carry out crypto mining activities.\nSources:\n- https://cryptopanic.com/news/23058977/Hackers-attack-systems-to-carry-out-crypto-mining-activities",
+    "entities": "Android",
+    "eventSummary": "A new banking malware has emerged, impacting over 50,000 Android users in the US and Canada within six days.\nSources:\n- https://cryptopanic.com/news/23235880/New-Banking-Malware-Hammers-US-and-Canada-Reaches-Over-50000-Android-Users-in-Just-Six-Days",
     "industry": "finance",
-    "timestamp": "2025-07-05T10:39:45Z",
+    "timestamp": "2025-07-12T18:11:07Z",
     "topic": "cyberattack"
   },
   {
-    "entities": "financial custodians",
-    "eventSummary": "A dormant Bitcoin whale wallet holding approximately $8 billion may have been compromised. The address reportedly accessed its private key via a Bitcoin Cash transaction before transferring all its BTC holdings. Suspicion is deepened by untouched related BCH addresses. If confirmed, this could be the largest crypto theft on record, though conclusive proof is still pending.\nSources:\n- https://t.me/leviathan_news",
+    "entities": "FERC",
+    "eventSummary": "FERC is taking steps to strengthen cybersecurity measures.\nSources:\n- https://twitter.com/584143451/status/1942667595364327442",
     "industry": "finance",
-    "timestamp": "2025-07-05T08:30:17Z",
+    "timestamp": "2025-07-08T19:30:22Z",
     "topic": "cyberattack"
   },
   {
-    "entities": "financial custodians",
-    "eventSummary": "Users are reporting fraudulent emails and scam texts, with some losing all their crypto. There are also reports of imposters impersonating administrators on social media platforms to scam users, and fake crypto apps designed to steal funds. Additionally, there are concerns about hackers having access to trades.\nSources:\n- https://www.reddit.com/r/Bitcoin/comments/1ls162x/just_got_this_fraudulent_email/\n- https://www.reddit.com/r/CoinBase/comments/1lssiwa/scam_text_i_received_just_now/\n- https://t.me/Kucoin_News/30938\n- https://www.reddit.com/r/CoinBase/comments/1lq3hki/hackers_have_access_to_trades_or_coincidence/",
+    "entities": "Peapods Finance",
+    "eventSummary": "There are reports of a possible hack on Peapods Finance.\nSources:\n- https://t.me/leviathan_news",
     "industry": "finance",
-    "timestamp": "2025-07-03T01:28:12Z",
+    "timestamp": "2025-07-08T14:49:18Z",
     "topic": "cyberattack"
   },
   {
-    "entities": "financial custodians",
-    "eventSummary": "There are multiple reports of scams, including fraudulent emails, scam texts, and imposters impersonating company members on social media. Users are warned about fake crypto apps and advised to be cautious of social media promotions or rumors about stocks.\nSources:\n- https://www.reddit.com/r/Revolut/comments/1ls162x/just_got_this_fraudulent_email/\n- https://www.reddit.com/r/btc/comments/1lokjnv/received_scam_ledger_letter_beware/\n- https://twitter.com/2260491445/status/1939927050334163161\n- https://www.reddit.com/r/Gemini/comments/1losleb/scammers_working_overtime_and_clever_just_got/\n- https://t.me/nexofinance\n- https://twitter.com/18481050/status/1939783563391438989",
+    "entities": "CoinMarketCap",
+    "eventSummary": "CoinMarketCap is warning users about scammers impersonating their members and attempting to solicit funds through direct messages. They emphasize that CoinMarketCap will never DM users first and advise users to verify any requests before sending funds.\nSources:\n- https://twitter.com/2260491445/status/1942463695084232738\n- https://twitter.com/2260491445/status/1944366227578597396",
     "industry": "finance",
-    "timestamp": "2025-07-02T19:04:30Z",
+    "timestamp": "2025-07-08T06:00:08Z",
     "topic": "cyberattack"
   },
   {
-    "entities": "financial custodians",
-    "eventSummary": "GodFather malware is hijacking banking applications on Android devices.\nSources:\n- https://www.americanbanker.com/news/godfather-malware-poses-new-threat-to-android-banking-apps",
+    "entities": "PayPal",
+    "eventSummary": "Users are reporting issues with their PayPal accounts, including unknown activity, problems transferring money, and unauthorized use of their email addresses.\nSources:\n- https://www.reddit.com/r/paypal/comments/1lusi0e/unable_to_login_next_steps/\n- https://www.reddit.com/r/paypal/comments/1lu71qm/problems_transferring_money/\n- https://www.reddit.com/r/paypal/comments/1lu5pfy/someone_is_using_my_email_in_china/",
     "industry": "finance",
-    "timestamp": "2025-06-30T19:36:37Z",
+    "timestamp": "2025-07-07T10:50:46Z",
     "topic": "cyberattack"
   },
   {
-    "entities": "financial custodians",
-    "eventSummary": "Users are reporting issues with account login, account closure, and payment/withdrawal problems with debit cards. Some users suspect fraudulent activity or unauthorized account creation.\nSources:\n- https://t.me/okxofficial_id\n- https://www.reddit.com/r/CoinBase/comments/1lpyuxj/someone_created_an_account_under_my_name_phone/\n- https://www.reddit.com/r/Gemini/comments/1lqy1zy/customer_service_issues_logging_in/\n- https://t.me/kraken_exchange_official\n- https://www.reddit.com/r/Revolut/comments/1lqv91d/account_closed_please_help/\n- https://t.me/Cryptocom_BR/",
+    "entities": "Binance",
+    "eventSummary": "Binance is issuing a warning about phishing scams that target users through fake links and impersonation, advising users to be vigilant and learn how to protect their accounts.\nSources:\n- https://t.me/binanceexchange",
     "industry": "finance",
-    "timestamp": "2025-06-30T11:31:08Z",
+    "timestamp": "2025-07-06T20:01:06Z",
     "topic": "cyberattack"
   },
   {
-    "entities": "financial custodians",
-    "eventSummary": "Users are reporting fraud despite having online transactions disabled, and some have lost all their crypto. There are also reports of scams involving fake crypto apps and impersonators.\nSources:\n- https://www.reddit.com/r/Revolut/comments/1lnoalc/fraud_in_spite_of_diabled_online_transactions/\n- https://twitter.com/1921182093868158976/status/1941247445603864902",
+    "entities": "Crypto.com, Gemini, Kraken, KuCoin, CoinMarketCap, PayPal, Binance, interactive brokers, OneInchNetwork, btc118, Peapods Finance, Beansprout, BCH, Nexo Finance",
+    "eventSummary": "Multiple financial custodians are experiencing issues including login problems, inability to withdraw crypto, account access issues, and reports of scams and phishing attempts. There are also mentions of new banking malware affecting Android users and impersonation scams targeting users through fake links and giveaways. Some users reported unknown activity on their accounts and funds being transferred by hackers. Crypto.com, Gemini, Kraken, and PayPal are specifically mentioned in relation to these issues.\nSources:\n- https://www.reddit.com/r/CryptoMarkets/comments/1lw5bj5/cryptocom_actual_scamming_folks/\n- https://www.reddit.com/r/interactivebrokers/comments/1lw4s0l/anyone_having_problems_logging_in_to_the_mobile/\n- https://t.me/kraken_exchange_official",
     "industry": "finance",
-    "timestamp": "2025-06-29T22:08:43Z",
+    "timestamp": "2025-07-06T16:31:28Z",
     "topic": "cyberattack"
   }
 ]
