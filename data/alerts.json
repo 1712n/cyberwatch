@@ -1,58 +1,44 @@
 [
   {
+    "entities": "ST Engineering",
+    "eventSummary": "ST Engineering is suspected to have been targeted by a cyberattack.",
+    "industry": "finance",
+    "timestamp": "2025-07-18T13:11:56Z",
+    "topic": "cyberattack"
+  },
+  {
     "entities": "Gemini",
-    "eventSummary": "Gemini has reported that crypto deposits are temporarily unavailable.\nSources:\n- https://status.gemini.com/incidents/y8pzppbqcl1m",
+    "eventSummary": "A user reported being unable to withdraw their crypto from Gemini.",
     "industry": "finance",
-    "timestamp": "2025-07-13T05:07:31Z",
+    "timestamp": "2025-07-17T06:24:56Z",
     "topic": "cyberattack"
   },
   {
-    "entities": "Android",
-    "eventSummary": "A new banking malware has emerged, impacting over 50,000 Android users in the US and Canada within six days.\nSources:\n- https://cryptopanic.com/news/23235880/New-Banking-Malware-Hammers-US-and-Canada-Reaches-Over-50000-Android-Users-in-Just-Six-Days",
+    "entities": "BigONEexchange",
+    "eventSummary": "The exchange BigONEexchange was exploited due to a supply chain attack, resulting in losses exceeding $27 million.",
     "industry": "finance",
-    "timestamp": "2025-07-12T18:11:07Z",
+    "timestamp": "2025-07-16T05:07:51Z",
     "topic": "cyberattack"
   },
   {
-    "entities": "FERC",
-    "eventSummary": "FERC is taking steps to strengthen cybersecurity measures.\nSources:\n- https://twitter.com/584143451/status/1942667595364327442",
+    "entities": "Coinbase",
+    "eventSummary": "Users are reporting issues with Coinbase, including being logged out of accounts, verification problems, and receiving phishing emails attempting to obtain their 12-word phrase. There are also reports of scammers impersonating CoinMarketCap members and calling users.",
     "industry": "finance",
-    "timestamp": "2025-07-08T19:30:22Z",
+    "timestamp": "2025-07-15T07:05:02Z",
     "topic": "cyberattack"
   },
   {
-    "entities": "Peapods Finance",
-    "eventSummary": "There are reports of a possible hack on Peapods Finance.\nSources:\n- https://t.me/leviathan_news",
+    "entities": "Galaxy Digital",
+    "eventSummary": "1,410 BTC, valued at $164,795,874 USD, was transferred from an unknown wallet to Galaxy Digital.",
     "industry": "finance",
-    "timestamp": "2025-07-08T14:49:18Z",
+    "timestamp": "2025-07-15T06:50:02Z",
     "topic": "cyberattack"
   },
   {
-    "entities": "CoinMarketCap",
-    "eventSummary": "CoinMarketCap is warning users about scammers impersonating their members and attempting to solicit funds through direct messages. They emphasize that CoinMarketCap will never DM users first and advise users to verify any requests before sending funds.\nSources:\n- https://twitter.com/2260491445/status/1942463695084232738\n- https://twitter.com/2260491445/status/1944366227578597396",
+    "entities": "financial institutions",
+    "eventSummary": "There is a reported pixel litigation risk at financial institutions.",
     "industry": "finance",
-    "timestamp": "2025-07-08T06:00:08Z",
-    "topic": "cyberattack"
-  },
-  {
-    "entities": "PayPal",
-    "eventSummary": "Users are reporting issues with their PayPal accounts, including unknown activity, problems transferring money, and unauthorized use of their email addresses.\nSources:\n- https://www.reddit.com/r/paypal/comments/1lusi0e/unable_to_login_next_steps/\n- https://www.reddit.com/r/paypal/comments/1lu71qm/problems_transferring_money/\n- https://www.reddit.com/r/paypal/comments/1lu5pfy/someone_is_using_my_email_in_china/",
-    "industry": "finance",
-    "timestamp": "2025-07-07T10:50:46Z",
-    "topic": "cyberattack"
-  },
-  {
-    "entities": "Binance",
-    "eventSummary": "Binance is issuing a warning about phishing scams that target users through fake links and impersonation, advising users to be vigilant and learn how to protect their accounts.\nSources:\n- https://t.me/binanceexchange",
-    "industry": "finance",
-    "timestamp": "2025-07-06T20:01:06Z",
-    "topic": "cyberattack"
-  },
-  {
-    "entities": "Crypto.com, Gemini, Kraken, KuCoin, CoinMarketCap, PayPal, Binance, interactive brokers, OneInchNetwork, btc118, Peapods Finance, Beansprout, BCH, Nexo Finance",
-    "eventSummary": "Multiple financial custodians are experiencing issues including login problems, inability to withdraw crypto, account access issues, and reports of scams and phishing attempts. There are also mentions of new banking malware affecting Android users and impersonation scams targeting users through fake links and giveaways. Some users reported unknown activity on their accounts and funds being transferred by hackers. Crypto.com, Gemini, Kraken, and PayPal are specifically mentioned in relation to these issues.\nSources:\n- https://www.reddit.com/r/CryptoMarkets/comments/1lw5bj5/cryptocom_actual_scamming_folks/\n- https://www.reddit.com/r/interactivebrokers/comments/1lw4s0l/anyone_having_problems_logging_in_to_the_mobile/\n- https://t.me/kraken_exchange_official",
-    "industry": "finance",
-    "timestamp": "2025-07-06T16:31:28Z",
+    "timestamp": "2025-07-14T19:08:28Z",
     "topic": "cyberattack"
   }
 ]
