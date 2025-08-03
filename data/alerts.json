@@ -1,58 +1,23 @@
 [
   {
-    "entities": "financial custodians",
-    "eventSummary": "A user reported that after moving BTC from an exchange to a desktop wallet, their computer immediately locked, suggesting a potential malware or ransomware attack.Sources: - https://twitter.com/23618940/status/1949094129440293329",
+    "entities": "Coinbase",
+    "eventSummary": "Coinbase experienced a major data breach, resulting in a $307 million hit to its Q2 earnings. The breach involved cybercriminals bribing offshore customer service staff to access user data, with initial total losses estimated up to $400 million. This incident also led to a decline in spot trading volumes and revenue.\nSources:\n- https://t.me/leviathan_news",
     "industry": "finance",
-    "timestamp": "2025-07-26T13:07:07Z",
+    "timestamp": "2025-08-01T16:32:14Z",
     "topic": "cyberattack"
   },
   {
-    "entities": "financial custodians",
-    "eventSummary": "A new malware variant has been identified that uses Microsoft technology to steal sensitive bank customer data.Sources: - https://cryptopanic.com/news/23673782/New-Malware-Variant-Taps-Microsoft-Technology-To-Steal-Sensitive-Bank-Customer-Data-Cybersecurity-Researchers",
+    "entities": "banks, credit unions",
+    "eventSummary": "A U.S. cybercrime group is actively targeting banks and credit unions.\nSources:\n- https://www.americanbanker.com/news/a-u-s-cybercrime-group-is-targeting-banks-and-credit-unions",
     "industry": "finance",
-    "timestamp": "2025-07-25T18:59:37Z",
+    "timestamp": "2025-07-30T21:03:32Z",
     "topic": "cyberattack"
   },
   {
-    "entities": "financial custodians",
-    "eventSummary": "A centralized exchange suspended withdrawals following a multi-chain attack.Sources: - https://cryptopanic.com/news/23656907/Centralized-Exchange-Suspends-Withdrawals-After-Multi-Chain-Attack",
+    "entities": "CoinDCX, BigONE",
+    "eventSummary": "Crypto exchanges CoinDCX and BigONE collectively lost $71 million due to infrastructure-level failures, highlighting vulnerabilities even when employing multi-party computation (MPC). Experts warn that assuming internal systems are secure can lead to significant breaches.\nSources:\n- https://twitter.com/1237544865216507906/status/1950511690602221872",
     "industry": "finance",
-    "timestamp": "2025-07-25T09:38:24Z",
-    "topic": "cyberattack"
-  },
-  {
-    "entities": "financial custodians",
-    "eventSummary": "There are reports of 'address poisoning' scams where users are tricked into sending funds to scammers by carefully crafted addresses. Binance Exchange provided safety tips to avoid such scams.Sources: - https://t.me/binanceexchange",
-    "industry": "finance",
-    "timestamp": "2025-07-24T08:34:01Z",
-    "topic": "cyberattack"
-  },
-  {
-    "entities": "financial custodians",
-    "eventSummary": "Users are reporting issues with funds being taken from their accounts due to errors or unauthorized activity, specifically mentioning Coinbase.Sources: - https://www.reddit.com/r/CoinBase/comments/1m7lk9p/coinbase_made_an_error_and_is_taking_funds_out_of/",
-    "industry": "finance",
-    "timestamp": "2025-07-23T22:20:18Z",
-    "topic": "cyberattack"
-  },
-  {
-    "entities": "financial custodians",
-    "eventSummary": "Indian crypto exchange CoinDCX confirmed a $44 million theft during a hack, where an internal account used for liquidity provisioning on a partner exchange was compromised.Sources: - https://techcrunch.com/2025/07/21/indian-crypto-exchange-coindcx-confirms-44-million-stolen-during-hack/",
-    "industry": "finance",
-    "timestamp": "2025-07-21T19:45:26Z",
-    "topic": "cyberattack"
-  },
-  {
-    "entities": "financial custodians",
-    "eventSummary": "Warnings are being issued about fake accounts impersonating financial entities like CoinMarketCap and Nexo Finance, spreading false reports and attempting to scam users through phishing emails and direct messages.Sources: - https://twitter.com/2260491445/status/1947537164327104632 - https://t.me/nexofinance - https://twitter.com/1387497871751196672/status/1949230478445170857",
-    "industry": "finance",
-    "timestamp": "2025-07-21T17:43:48Z",
-    "topic": "cyberattack"
-  },
-  {
-    "entities": "financial custodians",
-    "eventSummary": "Users are reporting issues with unauthorized transactions, account access, and account blocks on platforms like PayPal, Revolut, and Coinbase, indicating potential scam activities or security breaches.Sources: - https://www.reddit.com/r/Revolut/comments/1m4s23n/is_there_someone_in_my_account/ - https://www.reddit.com/r/paypal/comments/1m55jqq/unauthorized_transactions/ - https://www.reddit.com/r/CoinBase/comments/1m7mvxr/potential_scam_or_account_im_not_aware_of/",
-    "industry": "finance",
-    "timestamp": "2025-07-20T16:15:53Z",
+    "timestamp": "2025-07-30T11:00:00Z",
     "topic": "cyberattack"
   }
 ]
