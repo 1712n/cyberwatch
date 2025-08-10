@@ -1,23 +1,9 @@
 [
   {
-    "entities": "Coinbase",
-    "eventSummary": "Coinbase experienced a major data breach, resulting in a $307 million hit to its Q2 earnings. The breach involved cybercriminals bribing offshore customer service staff to access user data, with initial total losses estimated up to $400 million. This incident also led to a decline in spot trading volumes and revenue.\nSources:\n- https://t.me/leviathan_news",
+    "entities": "financial custodians",
+    "eventSummary": "A sophisticated cyber-heist targeting ATMs was foiled. This incident highlights ongoing cyberattack attempts within the finance industry.\nSources:\n- https://www.americanbanker.com/news/inside-a-sophisticated-foiled-cyber-heist-targeting-atms",
     "industry": "finance",
-    "timestamp": "2025-08-01T16:32:14Z",
-    "topic": "cyberattack"
-  },
-  {
-    "entities": "banks, credit unions",
-    "eventSummary": "A U.S. cybercrime group is actively targeting banks and credit unions.\nSources:\n- https://www.americanbanker.com/news/a-u-s-cybercrime-group-is-targeting-banks-and-credit-unions",
-    "industry": "finance",
-    "timestamp": "2025-07-30T21:03:32Z",
-    "topic": "cyberattack"
-  },
-  {
-    "entities": "CoinDCX, BigONE",
-    "eventSummary": "Crypto exchanges CoinDCX and BigONE collectively lost $71 million due to infrastructure-level failures, highlighting vulnerabilities even when employing multi-party computation (MPC). Experts warn that assuming internal systems are secure can lead to significant breaches.\nSources:\n- https://twitter.com/1237544865216507906/status/1950511690602221872",
-    "industry": "finance",
-    "timestamp": "2025-07-30T11:00:00Z",
+    "timestamp": "2025-08-04T19:58:30Z",
     "topic": "cyberattack"
   }
 ]
