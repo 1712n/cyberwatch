@@ -1,9 +1,58 @@
 [
   {
+    "timestamp": "Mon Aug 25 2025 14:30:04 GMT+0000 (Coordinated Universal Time)",
     "entities": "financial custodians",
-    "eventSummary": "A sophisticated cyber-heist targeting ATMs was foiled. This incident highlights ongoing cyberattack attempts within the finance industry.\nSources:\n- https://www.americanbanker.com/news/inside-a-sophisticated-foiled-cyber-heist-targeting-atms",
+    "topic": "cyberattack",
     "industry": "finance",
-    "timestamp": "2025-08-04T19:58:30Z",
-    "topic": "cyberattack"
+    "eventSummary": "Binance warned users to beware of fake support calls targeting their API.\nSources:\n- https://www.binance.com/en/blog/security/4224586391672654202?ref=UE06QWNK&utm_source=EnglishTelegram&utm_medium=GlobalCommunity&utm_campaign=EnglishAngels"
+  },
+  {
+    "timestamp": "Sun Aug 24 2025 12:00:12 GMT+0000 (Coordinated Universal Time)",
+    "entities": "financial custodians",
+    "topic": "cyberattack",
+    "industry": "finance",
+    "eventSummary": "CoinMarketCap issued a warning to be aware of scammers, stating they will never DM first or ask for funds.\nSources:\n- https://twitter.com/2260491445/status/1959586538389479860"
+  },
+  {
+    "timestamp": "Sat Aug 23 2025 10:46:52 GMT+0000 (Coordinated Universal Time)",
+    "entities": "financial custodians",
+    "topic": "cyberattack",
+    "industry": "finance",
+    "eventSummary": "A warning was issued about Coinbase phishing emails and other current scams.\nSources:\n- https://news.google.com/rss/articles/CBMipwFBVV95cUxPbGJxSXJSVnVTR3lMZ2ZFWGtPUXRlMlZqUWl1UGtOWG9PWnJXRmVaYkNhTmpEN3l6b1MwUS1JN0NiZF90ZkZZVUhLNmRNdXhQRV9OTkJkd3IwQXFHYXFPS2tXZllVR1A3SXRQYXRGOXdFUFNHSkg4QzU0NFluZU8xYXN6N2txb2Y5eFo1ZDA3elpXd0pqMW9FeG9ZbUR5NUdtdVdyckFPRQ?oc=5"
+  },
+  {
+    "timestamp": "Sat Aug 23 2025 01:28:13 GMT+0000 (Coordinated Universal Time)",
+    "entities": "financial custodians",
+    "topic": "cyberattack",
+    "industry": "finance",
+    "eventSummary": "A user reported their Coinbase account was hacked.\nSources:\n- https://www.reddit.com/r/CoinBase/comments/1mxo51u/hacked_coinbase_account/"
+  },
+  {
+    "timestamp": "Wed Aug 20 2025 20:14:43 GMT+0000 (Coordinated Universal Time)",
+    "entities": "financial custodians",
+    "topic": "cyberattack",
+    "industry": "finance",
+    "eventSummary": "A user reported a sneaky PayPal phishing attempt through real PayPal messaging.\nSources:\n- https://www.reddit.com/r/paypal/comments/1mvh1gw/sneaky_paypal_phishing_attempt_through_real/"
+  },
+  {
+    "timestamp": "Wed Aug 20 2025 06:46:14 GMT+0000 (Coordinated Universal Time)",
+    "entities": "financial custodians",
+    "topic": "cyberattack",
+    "industry": "finance",
+    "eventSummary": "Experts warn that Bitcoin could face a 51% attack due to mining centralization.\nSources:\n- https://beincrypto.com/bitcoin-mining-centralization-51-attack-risk/"
+  },
+  {
+    "timestamp": "Tue Aug 19 2025 23:14:34 GMT+0000 (Coordinated Universal Time)",
+    "entities": "financial custodians",
+    "topic": "cyberattack",
+    "industry": "finance",
+    "eventSummary": "A user reported a fraudulent charge on their PayPal account.\nSources:\n- https://www.reddit.com/r/paypal/comments/1mutu7i/paypal_fraudulent_charge/"
+  },
+  {
+    "timestamp": "Tue Aug 19 2025 18:55:12 GMT+0000 (Coordinated Universal Time)",
+    "entities": "financial custodians",
+    "topic": "cyberattack",
+    "industry": "finance",
+    "eventSummary": "A data breach or identity theft could compromise personal financial information, prompting immediate safeguarding steps for accounts.\nSources:\n- https://twitter.com/18481050/status/1957879037054832728"
   }
 ]
