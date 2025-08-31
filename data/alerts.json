@@ -1,58 +1,58 @@
 [
   {
+    "timestamp": "Sat Aug 30 2025 04:13:30 GMT+0000 (Coordinated Universal Time)",
+    "entities": "Coinbase",
+    "topic": "cyberattack",
+    "industry": "finance",
+    "eventSummary": "Coinbase users reported being spammed by scammers and receiving phishing texts. There were also reports of scam calls.Sources:- https://www.reddit.com/r/CoinBase/comments/1n3nyu7/being_spammed_by_scammers/- https://www.reddit.com/r/CoinBase/comments/1n4bgv6/coinbase_phishing_text/- https://www.reddit.com/r/CoinBase/comments/1n4a818/scam_calls_and_encouraging_sucde/"
+  },
+  {
+    "timestamp": "Fri Aug 29 2025 20:58:26 GMT+0000 (Coordinated Universal Time)",
+    "entities": "financial custodians",
+    "topic": "cyberattack",
+    "industry": "finance",
+    "eventSummary": "A user reported encountering another scam account, indicating ongoing scam activities targeting users of financial platforms.Sources:- https://twitter.com/80722677/status/1961533928453611820"
+  },
+  {
+    "timestamp": "Fri Aug 29 2025 02:21:18 GMT+0000 (Coordinated Universal Time)",
+    "entities": "PayPal",
+    "topic": "cyberattack",
+    "industry": "finance",
+    "eventSummary": "A new email scam, impersonating Google Verified Email, has been reported affecting PayPal users.Sources:- https://www.reddit.com/r/paypal/comments/1n2uygb/new_email_scam_google_verified_email/"
+  },
+  {
+    "timestamp": "Wed Aug 27 2025 22:27:25 GMT+0000 (Coordinated Universal Time)",
+    "entities": "Bitfinex",
+    "topic": "cyberattack",
+    "industry": "finance",
+    "eventSummary": "A user reported a scammer on the Bitfinex Telegram channel.Sources:- https://t.me/bitfinex"
+  },
+  {
+    "timestamp": "Wed Aug 27 2025 14:00:10 GMT+0000 (Coordinated Universal Time)",
+    "entities": "CoinMarketCap",
+    "topic": "cyberattack",
+    "industry": "finance",
+    "eventSummary": "CoinMarketCap warned about scammers impersonating their journalists in spear-phishing attempts, reminding users that they will never request system access, app installations, or wallet details.Sources:- https://twitter.com/2260491445/status/1960703891856875554"
+  },
+  {
     "timestamp": "Mon Aug 25 2025 14:30:04 GMT+0000 (Coordinated Universal Time)",
-    "entities": "financial custodians",
+    "entities": "Binance",
     "topic": "cyberattack",
     "industry": "finance",
-    "eventSummary": "Binance warned users to beware of fake support calls targeting their API.\nSources:\n- https://www.binance.com/en/blog/security/4224586391672654202?ref=UE06QWNK&utm_source=EnglishTelegram&utm_medium=GlobalCommunity&utm_campaign=EnglishAngels"
+    "eventSummary": "Binance issued a warning about fake support calls targeting user APIs, advising users to beware of such scams. They also published a blog post on how to detect and avoid account takeover attacks.Sources:- https://www.binance.com/en/blog/security/4224586391672654202- https://www.binance.com/en/blog/security/stay-safe-how-to-detect-and-avoid-account-takeover-attacks-6298893419290063574"
   },
   {
-    "timestamp": "Sun Aug 24 2025 12:00:12 GMT+0000 (Coordinated Universal Time)",
-    "entities": "financial custodians",
+    "timestamp": "Mon Aug 25 2025 02:21:22 GMT+0000 (Coordinated Universal Time)",
+    "entities": "Gemini",
     "topic": "cyberattack",
     "industry": "finance",
-    "eventSummary": "CoinMarketCap issued a warning to be aware of scammers, stating they will never DM first or ask for funds.\nSources:\n- https://twitter.com/2260491445/status/1959586538389479860"
+    "eventSummary": "A user reported being locked out of their Gemini account.Sources:- https://www.reddit.com/r/Gemini/comments/1mze3ec/locked_out_of_my_account/"
   },
   {
-    "timestamp": "Sat Aug 23 2025 10:46:52 GMT+0000 (Coordinated Universal Time)",
-    "entities": "financial custodians",
+    "timestamp": "Sun Aug 24 2025 19:55:43 GMT+0000 (Coordinated Universal Time)",
+    "entities": "Revolut",
     "topic": "cyberattack",
     "industry": "finance",
-    "eventSummary": "A warning was issued about Coinbase phishing emails and other current scams.\nSources:\n- https://news.google.com/rss/articles/CBMipwFBVV95cUxPbGJxSXJSVnVTR3lMZ2ZFWGtPUXRlMlZqUWl1UGtOWG9PWnJXRmVaYkNhTmpEN3l6b1MwUS1JN0NiZF90ZkZZVUhLNmRNdXhQRV9OTkJkd3IwQXFHYXFPS2tXZllVR1A3SXRQYXRGOXdFUFNHSkg4QzU0NFluZU8xYXN6N2txb2Y5eFo1ZDA3elpXd0pqMW9FeG9ZbUR5NUdtdVdyckFPRQ?oc=5"
-  },
-  {
-    "timestamp": "Sat Aug 23 2025 01:28:13 GMT+0000 (Coordinated Universal Time)",
-    "entities": "financial custodians",
-    "topic": "cyberattack",
-    "industry": "finance",
-    "eventSummary": "A user reported their Coinbase account was hacked.\nSources:\n- https://www.reddit.com/r/CoinBase/comments/1mxo51u/hacked_coinbase_account/"
-  },
-  {
-    "timestamp": "Wed Aug 20 2025 20:14:43 GMT+0000 (Coordinated Universal Time)",
-    "entities": "financial custodians",
-    "topic": "cyberattack",
-    "industry": "finance",
-    "eventSummary": "A user reported a sneaky PayPal phishing attempt through real PayPal messaging.\nSources:\n- https://www.reddit.com/r/paypal/comments/1mvh1gw/sneaky_paypal_phishing_attempt_through_real/"
-  },
-  {
-    "timestamp": "Wed Aug 20 2025 06:46:14 GMT+0000 (Coordinated Universal Time)",
-    "entities": "financial custodians",
-    "topic": "cyberattack",
-    "industry": "finance",
-    "eventSummary": "Experts warn that Bitcoin could face a 51% attack due to mining centralization.\nSources:\n- https://beincrypto.com/bitcoin-mining-centralization-51-attack-risk/"
-  },
-  {
-    "timestamp": "Tue Aug 19 2025 23:14:34 GMT+0000 (Coordinated Universal Time)",
-    "entities": "financial custodians",
-    "topic": "cyberattack",
-    "industry": "finance",
-    "eventSummary": "A user reported a fraudulent charge on their PayPal account.\nSources:\n- https://www.reddit.com/r/paypal/comments/1mutu7i/paypal_fraudulent_charge/"
-  },
-  {
-    "timestamp": "Tue Aug 19 2025 18:55:12 GMT+0000 (Coordinated Universal Time)",
-    "entities": "financial custodians",
-    "topic": "cyberattack",
-    "industry": "finance",
-    "eventSummary": "A data breach or identity theft could compromise personal financial information, prompting immediate safeguarding steps for accounts.\nSources:\n- https://twitter.com/18481050/status/1957879037054832728"
+    "eventSummary": "A user reported criminal activities being conducted with a Revolut Bank account.Sources:- https://www.reddit.com/r/Revolut/comments/1mz058p/someone_is_doing_criminal_activities_with_a/"
   }
 ]
