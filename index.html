@@ -431,7 +431,7 @@
 
         // Parse sources from event summary
         function parseSources(eventSummary) {
-            const parts = eventSummary.split('\nSources:\n')
+            const parts = eventSummary.split('Sources:\n')
             if (parts.length < 2) return []
             
             return parts[1]
