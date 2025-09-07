@@ -1,58 +1,37 @@
 [
   {
-    "timestamp": "Sat Aug 30 2025 04:13:30 GMT+0000 (Coordinated Universal Time)",
-    "entities": "Coinbase",
-    "topic": "cyberattack",
-    "industry": "finance",
-    "eventSummary": "Coinbase users reported being spammed by scammers and receiving phishing texts. There were also reports of scam calls.Sources:- https://www.reddit.com/r/CoinBase/comments/1n3nyu7/being_spammed_by_scammers/- https://www.reddit.com/r/CoinBase/comments/1n4bgv6/coinbase_phishing_text/- https://www.reddit.com/r/CoinBase/comments/1n4a818/scam_calls_and_encouraging_sucde/"
-  },
-  {
-    "timestamp": "Fri Aug 29 2025 20:58:26 GMT+0000 (Coordinated Universal Time)",
+    "timestamp": "2025-09-05T10:48:10Z",
     "entities": "financial custodians",
     "topic": "cyberattack",
     "industry": "finance",
-    "eventSummary": "A user reported encountering another scam account, indicating ongoing scam activities targeting users of financial platforms.Sources:- https://twitter.com/80722677/status/1961533928453611820"
+    "eventSummary": "A fake Chainlink wallet page (chainlinkwallet.org) is being used to distribute malware that collects data and cryptocurrencies from users' computers. Users are urged to report the page and be cautious.\nSources:\n- https://t.me/chainlinkofficial"
   },
   {
-    "timestamp": "Fri Aug 29 2025 02:21:18 GMT+0000 (Coordinated Universal Time)",
-    "entities": "PayPal",
+    "timestamp": "2025-09-04T20:52:11Z",
+    "entities": "financial custodians",
     "topic": "cyberattack",
     "industry": "finance",
-    "eventSummary": "A new email scam, impersonating Google Verified Email, has been reported affecting PayPal users.Sources:- https://www.reddit.com/r/paypal/comments/1n2uygb/new_email_scam_google_verified_email/"
+    "eventSummary": "Dark web vendors are distributing fake Ledger wallet pages to target crypto users. Additionally, there are warnings about DNS attacks and the potential for domain hijacking, with a detailed review of violent attack vectors in Web3.\nSources:\n- https://cryptoslate.com/dark-web-vendors-distribute-fake-ledger-wallet-pages-targeting-crypto-users/\n- https://web3secnews.substack.com/p/the-hidden-dns-threats-that-could\n- https://officercia.mirror.xyz/4erDRXgdwK6hxfC5OeNUVeJf20Qxrk5DRdRDL5pcc7w"
   },
   {
-    "timestamp": "Wed Aug 27 2025 22:27:25 GMT+0000 (Coordinated Universal Time)",
-    "entities": "Bitfinex",
+    "timestamp": "2025-09-04T04:08:03Z",
+    "entities": "financial custodians",
     "topic": "cyberattack",
     "industry": "finance",
-    "eventSummary": "A user reported a scammer on the Bitfinex Telegram channel.Sources:- https://t.me/bitfinex"
+    "eventSummary": "Users of Coinbase are reporting malicious emails and phishing attempts. There are also reports of a Coinbase withdrawal scam.\nSources:\n- https://www.reddit.com/r/CoinBase/comments/1n7ssbr/malicious_email_phishing_attempt/\n- https://www.reddit.com/r/CoinBase/comments/1nac4eb/coinbase_withdrawal_scam/\n- https://www.reddit.com/r/CoinBase/comments/1n6qmeg/scams_are_getting_better_beware/"
   },
   {
-    "timestamp": "Wed Aug 27 2025 14:00:10 GMT+0000 (Coordinated Universal Time)",
-    "entities": "CoinMarketCap",
+    "timestamp": "2025-09-01T10:00:53Z",
+    "entities": "financial custodians",
     "topic": "cyberattack",
     "industry": "finance",
-    "eventSummary": "CoinMarketCap warned about scammers impersonating their journalists in spear-phishing attempts, reminding users that they will never request system access, app installations, or wallet details.Sources:- https://twitter.com/2260491445/status/1960703891856875554"
+    "eventSummary": "Online investment scams are increasing, with fraudsters employing more sophisticated methods. The CySEC has launched a quiz to help the public identify risks and improve financial literacy and investor protection.\nSources:\n- https://twitter.com/2785632901/status/1962455615088808398"
   },
   {
-    "timestamp": "Mon Aug 25 2025 14:30:04 GMT+0000 (Coordinated Universal Time)",
-    "entities": "Binance",
+    "timestamp": "2025-08-31T13:12:13Z",
+    "entities": "financial custodians",
     "topic": "cyberattack",
     "industry": "finance",
-    "eventSummary": "Binance issued a warning about fake support calls targeting user APIs, advising users to beware of such scams. They also published a blog post on how to detect and avoid account takeover attacks.Sources:- https://www.binance.com/en/blog/security/4224586391672654202- https://www.binance.com/en/blog/security/stay-safe-how-to-detect-and-avoid-account-takeover-attacks-6298893419290063574"
-  },
-  {
-    "timestamp": "Mon Aug 25 2025 02:21:22 GMT+0000 (Coordinated Universal Time)",
-    "entities": "Gemini",
-    "topic": "cyberattack",
-    "industry": "finance",
-    "eventSummary": "A user reported being locked out of their Gemini account.Sources:- https://www.reddit.com/r/Gemini/comments/1mze3ec/locked_out_of_my_account/"
-  },
-  {
-    "timestamp": "Sun Aug 24 2025 19:55:43 GMT+0000 (Coordinated Universal Time)",
-    "entities": "Revolut",
-    "topic": "cyberattack",
-    "industry": "finance",
-    "eventSummary": "A user reported criminal activities being conducted with a Revolut Bank account.Sources:- https://www.reddit.com/r/Revolut/comments/1mz058p/someone_is_doing_criminal_activities_with_a/"
+    "eventSummary": "Scammers are actively targeting users of financial custodians like Nexo Finance by sending direct messages pretending to be support staff. Users are advised to be cautious of fake requests for advice and support.\nSources:\n- https://t.me/nexofinance\n- https://www.reddit.com/r/binance/comments/1n4vs32/warning_beware_of_fake_requests_of_advices/"
   }
 ]
