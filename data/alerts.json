@@ -1,37 +1,51 @@
 [
   {
-    "timestamp": "2025-09-05T10:48:10Z",
+    "timestamp": "2025-09-12T21:39:32.000Z",
     "entities": "financial custodians",
     "topic": "cyberattack",
     "industry": "finance",
-    "eventSummary": "A fake Chainlink wallet page (chainlinkwallet.org) is being used to distribute malware that collects data and cryptocurrencies from users' computers. Users are urged to report the page and be cautious.\nSources:\n- https://t.me/chainlinkofficial"
+    "eventSummary": "Blockstream has issued an alert regarding a new email phishing campaign targeting hardware wallet users. https://cointelegraph.com/news/blockstream-sounds-alarm-email-phishing-campaign"
   },
   {
-    "timestamp": "2025-09-04T20:52:11Z",
+    "timestamp": "2025-09-12T08:36:00.000Z",
     "entities": "financial custodians",
     "topic": "cyberattack",
     "industry": "finance",
-    "eventSummary": "Dark web vendors are distributing fake Ledger wallet pages to target crypto users. Additionally, there are warnings about DNS attacks and the potential for domain hijacking, with a detailed review of violent attack vectors in Web3.\nSources:\n- https://cryptoslate.com/dark-web-vendors-distribute-fake-ledger-wallet-pages-targeting-crypto-users/\n- https://web3secnews.substack.com/p/the-hidden-dns-threats-that-could\n- https://officercia.mirror.xyz/4erDRXgdwK6hxfC5OeNUVeJf20Qxrk5DRdRDL5pcc7w"
+    "eventSummary": "New ModStealer malware is exploiting fake job ads to target crypto wallets across Windows, Mac, and Linux operating systems. https://cryptonews.com/news/new-malware-exploits-fake-job-ads-to-hit-crypto-wallets-on-windows-mac-linux/"
   },
   {
-    "timestamp": "2025-09-04T04:08:03Z",
+    "timestamp": "2025-09-12T04:06:19.000Z",
     "entities": "financial custodians",
     "topic": "cyberattack",
     "industry": "finance",
-    "eventSummary": "Users of Coinbase are reporting malicious emails and phishing attempts. There are also reports of a Coinbase withdrawal scam.\nSources:\n- https://www.reddit.com/r/CoinBase/comments/1n7ssbr/malicious_email_phishing_attempt/\n- https://www.reddit.com/r/CoinBase/comments/1nac4eb/coinbase_withdrawal_scam/\n- https://www.reddit.com/r/CoinBase/comments/1n6qmeg/scams_are_getting_better_beware/"
+    "eventSummary": "Researchers have uncovered undetectable malware that is draining crypto browser wallets. https://cryptopanic.com/news/25178053/Researchers-Uncover-Undetectable-Malware-Draining-Crypto-Browser-Wallets"
   },
   {
-    "timestamp": "2025-09-01T10:00:53Z",
+    "timestamp": "2025-09-11T17:15:04.000Z",
     "entities": "financial custodians",
     "topic": "cyberattack",
     "industry": "finance",
-    "eventSummary": "Online investment scams are increasing, with fraudsters employing more sophisticated methods. The CySEC has launched a quiz to help the public identify risks and improve financial literacy and investor protection.\nSources:\n- https://twitter.com/2785632901/status/1962455615088808398"
+    "eventSummary": "Evoq Finance was drained for $390k on BSC due to a critical vulnerability. https://x.com/guardrailai/status/1966186162600685974?89277"
   },
   {
-    "timestamp": "2025-08-31T13:12:13Z",
+    "timestamp": "2025-09-09T20:18:49.000Z",
     "entities": "financial custodians",
     "topic": "cyberattack",
     "industry": "finance",
-    "eventSummary": "Scammers are actively targeting users of financial custodians like Nexo Finance by sending direct messages pretending to be support staff. Users are advised to be cautious of fake requests for advice and support.\nSources:\n- https://t.me/nexofinance\n- https://www.reddit.com/r/binance/comments/1n4vs32/warning_beware_of_fake_requests_of_advices/"
+    "eventSummary": "A new Android banking trojan named RatOn is threatening U.S. banks. https://www.americanbanker.com/news/new-android-banking-trojan-raton-threatens-u-s-banks"
+  },
+  {
+    "timestamp": "2025-09-08T17:40:20.000Z",
+    "entities": "financial custodians",
+    "topic": "cyberattack",
+    "industry": "finance",
+    "eventSummary": "A massive crypto supply chain attack has been reported, with Ledger CTO warning hardware wallet users to verify every transaction and others to avoid on-chain activity until patched. THORWallet has disabled swaps and sends as a precaution, and their webapp is password protected. Funds are reported safe as users own their keys. https://t.co/XfzeZYHIuJ"
+  },
+  {
+    "timestamp": "2025-09-07T19:26:54.000Z",
+    "entities": "financial custodians",
+    "topic": "cyberattack",
+    "industry": "finance",
+    "eventSummary": "Bank hacks have doubled since 2023, impacting investor confidence. This highlights the need for financial custodians to prioritize cybersecurity as an investment in trust and growth. https://buff.ly/oQESTuf"
   }
 ]
