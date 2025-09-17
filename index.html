@@ -431,14 +431,27 @@
 
         // Parse sources from event summary
         function parseSources(eventSummary) {
-            const parts = eventSummary.split('Sources:\n')
-            if (parts.length < 2) return []
+            const sourcesMatch = eventSummary.match(/Sources:\s*(.*)/is)
+            if (!sourcesMatch) return []
             
-            return parts[1]
+            const sourcesText = sourcesMatch[1]
+            
+            // Split by lines and process each potential source
+            return sourcesText
                 .split('\n')
-                .filter(line => line.startsWith('- '))
-                .map(line => line.substring(2).trim())
-                .filter(url => url && url !== '-')
+                .map(line => line.trim())
+                .filter(line => line.length > 0)
+                .map(line => {
+                    // Remove leading dashes and whitespace
+                    return line.replace(/^-\s*/, '').trim()
+                })
+                .filter(url => {
+                    // Filter out empty lines and invalid URLs
+                    if (!url || url === '-') return false
+                    // Basic URL validation - should start with http/https or be a recognizable domain
+                    return url.includes('http') || url.includes('.') || url.includes('t.me')
+                })
+                .slice(0, 3)
         }
 
         // Generate tweet URL
