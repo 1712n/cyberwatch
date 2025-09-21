@@ -1,51 +1,30 @@
 [
   {
-    "timestamp": "2025-09-12T21:39:32.000Z",
+    "timestamp": "2025-09-18T02:26:25Z",
     "entities": "financial custodians",
     "topic": "cyberattack",
     "industry": "finance",
-    "eventSummary": "Blockstream has issued an alert regarding a new email phishing campaign targeting hardware wallet users. https://cointelegraph.com/news/blockstream-sounds-alarm-email-phishing-campaign"
+    "eventSummary": "Gemini users are reporting being 'drained' from their crypto accounts, experiencing website access issues, unresponsive customer service, and delayed crypto withdrawals. Revolut users are also reporting security reviews and frozen money.\nSources:\n- https://www.reddit.com/r/Gemini/comments/1njqm25/getting_drained_from_crypto_account/\n- https://www.reddit.com/r/Gemini/comments/1njhgfw/no_access_to_website_passkey_and_customer_service/\n- https://status.gemini.com/incidents/zw39hl3vqsj6"
   },
   {
-    "timestamp": "2025-09-12T08:36:00.000Z",
+    "timestamp": "2025-09-17T20:13:40Z",
     "entities": "financial custodians",
     "topic": "cyberattack",
     "industry": "finance",
-    "eventSummary": "New ModStealer malware is exploiting fake job ads to target crypto wallets across Windows, Mac, and Linux operating systems. https://cryptonews.com/news/new-malware-exploits-fake-job-ads-to-hit-crypto-wallets-on-windows-mac-linux/"
+    "eventSummary": "A Stripe user reported their account was hacked, leading to unauthorized charges to customers.\nSources:\n- https://www.reddit.com/r/stripe/comments/1njb368/urgent_help_hacked_account_customers_charged/"
   },
   {
-    "timestamp": "2025-09-12T04:06:19.000Z",
+    "timestamp": "2025-09-16T10:00:11Z",
     "entities": "financial custodians",
     "topic": "cyberattack",
     "industry": "finance",
-    "eventSummary": "Researchers have uncovered undetectable malware that is draining crypto browser wallets. https://cryptopanic.com/news/25178053/Researchers-Uncover-Undetectable-Malware-Draining-Crypto-Browser-Wallets"
+    "eventSummary": "Crypto.com users are experiencing verification issues and receiving suspicious emails, raising concerns about potential phishing attempts.\nSources:\n- https://www.reddit.com/r/Crypto_com/comments/1nic25a/cryptocom_verification_issue/\n- https://www.reddit.com/r/Crypto_com/comments/1nhcqnn/is_this_a_legitimate_email/"
   },
   {
-    "timestamp": "2025-09-11T17:15:04.000Z",
+    "timestamp": "2025-09-15T14:59:52Z",
     "entities": "financial custodians",
     "topic": "cyberattack",
     "industry": "finance",
-    "eventSummary": "Evoq Finance was drained for $390k on BSC due to a critical vulnerability. https://x.com/guardrailai/status/1966186162600685974?89277"
-  },
-  {
-    "timestamp": "2025-09-09T20:18:49.000Z",
-    "entities": "financial custodians",
-    "topic": "cyberattack",
-    "industry": "finance",
-    "eventSummary": "A new Android banking trojan named RatOn is threatening U.S. banks. https://www.americanbanker.com/news/new-android-banking-trojan-raton-threatens-u-s-banks"
-  },
-  {
-    "timestamp": "2025-09-08T17:40:20.000Z",
-    "entities": "financial custodians",
-    "topic": "cyberattack",
-    "industry": "finance",
-    "eventSummary": "A massive crypto supply chain attack has been reported, with Ledger CTO warning hardware wallet users to verify every transaction and others to avoid on-chain activity until patched. THORWallet has disabled swaps and sends as a precaution, and their webapp is password protected. Funds are reported safe as users own their keys. https://t.co/XfzeZYHIuJ"
-  },
-  {
-    "timestamp": "2025-09-07T19:26:54.000Z",
-    "entities": "financial custodians",
-    "topic": "cyberattack",
-    "industry": "finance",
-    "eventSummary": "Bank hacks have doubled since 2023, impacting investor confidence. This highlights the need for financial custodians to prioritize cybersecurity as an investment in trust and growth. https://buff.ly/oQESTuf"
+    "eventSummary": "Users of Coinbase are reporting login issues and warning about phone number change scams. There are also reports of a money request and receive email scam affecting PayPal users, and a general warning from the Federal Reserve about text message/email scams claiming suspicious activity on bank accounts.\nSources:\n- https://www.reddit.com/r/CoinBase/comments/1nhajdl/is_anyone_else_having_trouble_logging_into/\n- https://www.reddit.com/r/CoinBase/comments/1ngxban/phone_number_change_scam_warning/\n- https://www.reddit.com/r/paypal/comments/1nhvbt4/money_request_and_receive_email_scam/"
   }
 ]
