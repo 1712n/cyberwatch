@@ -1,30 +1,23 @@
 [
   {
-    "timestamp": "2025-09-18T02:26:25Z",
+    "timestamp": "2025-09-27T16:27:21Z",
     "entities": "financial custodians",
     "topic": "cyberattack",
     "industry": "finance",
-    "eventSummary": "Gemini users are reporting being 'drained' from their crypto accounts, experiencing website access issues, unresponsive customer service, and delayed crypto withdrawals. Revolut users are also reporting security reviews and frozen money.\nSources:\n- https://www.reddit.com/r/Gemini/comments/1njqm25/getting_drained_from_crypto_account/\n- https://www.reddit.com/r/Gemini/comments/1njhgfw/no_access_to_website_passkey_and_customer_service/\n- https://status.gemini.com/incidents/zw39hl3vqsj6"
+    "eventSummary": "A bank has issued a data breach alert to its customers after a hacker accessed sensitive personal information.\nSources:\n- https://cryptopanic.com/news/25700184/Bank-Issues-Data-Breach-Alert-To-Customers-After-Hacker-Accesses-Sensitive-Personal-Information"
   },
   {
-    "timestamp": "2025-09-17T20:13:40Z",
+    "timestamp": "2025-09-24T15:00:53Z",
     "entities": "financial custodians",
     "topic": "cyberattack",
     "industry": "finance",
-    "eventSummary": "A Stripe user reported their account was hacked, leading to unauthorized charges to customers.\nSources:\n- https://www.reddit.com/r/stripe/comments/1njb368/urgent_help_hacked_account_customers_charged/"
+    "eventSummary": "Details regarding a UXLINK hack have been shared.\nSources:\n- https://x.com/guardrailai/status/1970844469013692604"
   },
   {
-    "timestamp": "2025-09-16T10:00:11Z",
+    "timestamp": "2025-09-21T19:35:47Z",
     "entities": "financial custodians",
     "topic": "cyberattack",
     "industry": "finance",
-    "eventSummary": "Crypto.com users are experiencing verification issues and receiving suspicious emails, raising concerns about potential phishing attempts.\nSources:\n- https://www.reddit.com/r/Crypto_com/comments/1nic25a/cryptocom_verification_issue/\n- https://www.reddit.com/r/Crypto_com/comments/1nhcqnn/is_this_a_legitimate_email/"
-  },
-  {
-    "timestamp": "2025-09-15T14:59:52Z",
-    "entities": "financial custodians",
-    "topic": "cyberattack",
-    "industry": "finance",
-    "eventSummary": "Users of Coinbase are reporting login issues and warning about phone number change scams. There are also reports of a money request and receive email scam affecting PayPal users, and a general warning from the Federal Reserve about text message/email scams claiming suspicious activity on bank accounts.\nSources:\n- https://www.reddit.com/r/CoinBase/comments/1nhajdl/is_anyone_else_having_trouble_logging_into/\n- https://www.reddit.com/r/CoinBase/comments/1ngxban/phone_number_change_scam_warning/\n- https://www.reddit.com/r/paypal/comments/1nhvbt4/money_request_and_receive_email_scam/"
+    "eventSummary": "A new phishing attack is targeting open-source projects like Soldeer, utilizing fake GitHub accounts to create bogus projects and generate fraudulent issues. The emails appear to originate from a legitimate GitHub address but direct users to a deceptive site, github-fundation[.]com, to link their wallets. This puts numerous accounts at risk.\nSources:\n- https://x.com/officer_cia/status/1969847\n- https://t.me/officer_cia/3296"
   }
 ]
