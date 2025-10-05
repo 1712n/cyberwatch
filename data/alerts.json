@@ -1,23 +1,16 @@
 [
   {
-    "timestamp": "2025-09-27T16:27:21Z",
+    "timestamp": "2025-10-04T14:57:58Z",
     "entities": "financial custodians",
     "topic": "cyberattack",
     "industry": "finance",
-    "eventSummary": "A bank has issued a data breach alert to its customers after a hacker accessed sensitive personal information.\nSources:\n- https://cryptopanic.com/news/25700184/Bank-Issues-Data-Breach-Alert-To-Customers-After-Hacker-Accesses-Sensitive-Personal-Information"
+    "eventSummary": "A hacker accessed a bank's computer network, obtaining customer files that included names and Social Security numbers.\nSources:\n- https://cryptopanic.com/news/25891206/Hacker-Hits-Banks-Computer-Network-Accesses-Customer-Files-Containing-Names-Social-Security-Numbers-and-More"
   },
   {
-    "timestamp": "2025-09-24T15:00:53Z",
-    "entities": "financial custodians",
+    "timestamp": "2025-10-01T03:59:08Z",
+    "entities": "BNBCHAIN",
     "topic": "cyberattack",
     "industry": "finance",
-    "eventSummary": "Details regarding a UXLINK hack have been shared.\nSources:\n- https://x.com/guardrailai/status/1970844469013692604"
-  },
-  {
-    "timestamp": "2025-09-21T19:35:47Z",
-    "entities": "financial custodians",
-    "topic": "cyberattack",
-    "industry": "finance",
-    "eventSummary": "A new phishing attack is targeting open-source projects like Soldeer, utilizing fake GitHub accounts to create bogus projects and generate fraudulent issues. The emails appear to originate from a legitimate GitHub address but direct users to a deceptive site, github-fundation[.]com, to link their wallets. This puts numerous accounts at risk.\nSources:\n- https://x.com/officer_cia/status/1969847\n- https://t.me/officer_cia/3296"
+    "eventSummary": "The BNBCHAIN X account was compromised, with hackers posting phishing links. Users are advised not to click on any recent links from the account and to avoid connecting their wallets. Security teams are working to suspend the account and take down phishing websites.\nSources:\n- https://t.me/BNBchaincommunity\n- https://twitter.com/902926941413453824/status/1973244626531192968"
   }
 ]
